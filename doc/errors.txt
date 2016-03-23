@@ -1,0 +1,3356 @@
+Array
+(
+    [0] => Array
+        (
+            [line] => 10
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/AutoloadExample.php
+            [message] => No docblock for element 'run'
+        )
+
+    [1] => Array
+        (
+            [line] => 13
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/Bootstrap.php
+            [message] => Method bootstrap has no parent to inherit from in zabachok\hydra\Bootstrap.
+        )
+
+    [2] => Array
+        (
+            [line] => 5
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/Hydra.php
+            [message] => No docblock for element 'zabachok\hydra\Hydra'
+        )
+
+    [3] => Array
+        (
+            [line] => 7
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/Hydra.php
+            [message] => No docblock for element 'f'
+        )
+
+    [4] => Array
+        (
+            [line] => 6
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'zabachok\hydra\HydraComponent'
+        )
+
+    [5] => Array
+        (
+            [line] => 9
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [6] => Array
+        (
+            [line] => 9
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [7] => Array
+        (
+            [line] => 10
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [8] => Array
+        (
+            [line] => 10
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [9] => Array
+        (
+            [line] => 11
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [10] => Array
+        (
+            [line] => 11
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [11] => Array
+        (
+            [line] => 12
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [12] => Array
+        (
+            [line] => 12
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [13] => Array
+        (
+            [line] => 13
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [14] => Array
+        (
+            [line] => 13
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [15] => Array
+        (
+            [line] => 14
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [16] => Array
+        (
+            [line] => 14
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [17] => Array
+        (
+            [line] => 15
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [18] => Array
+        (
+            [line] => 15
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [19] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [20] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [21] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [22] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [23] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [24] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [25] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [26] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [27] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [28] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [29] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [30] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesPath'
+        )
+
+    [31] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [32] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [33] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [34] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [35] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [36] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [37] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [38] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [39] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [40] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [41] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [42] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesPath'
+        )
+
+    [43] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [44] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [45] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [46] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [47] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [48] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [49] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [50] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [51] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [52] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [53] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [54] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [55] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [56] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [57] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [58] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [59] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [60] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [61] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [62] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [63] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [64] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [65] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [66] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [67] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [68] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [69] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [70] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [71] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [72] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [73] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [74] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [75] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [76] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [77] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [78] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [79] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [80] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [81] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [82] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [83] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [84] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [85] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [86] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [87] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [88] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [89] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [90] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [91] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [92] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [93] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [94] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [95] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [96] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [97] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [98] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [99] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [100] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [101] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [102] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [103] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [104] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [105] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [106] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [107] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [108] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [109] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [110] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [111] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [112] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [113] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [114] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [115] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [116] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [117] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [118] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [119] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [120] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [121] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [122] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [123] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [124] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [125] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [126] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [127] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [128] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [129] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [130] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [131] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [132] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [133] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [134] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [135] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [136] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [137] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [138] => Array
+        (
+            [line] => 23
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [139] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [140] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [141] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [142] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [143] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [144] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [145] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [146] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [147] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [148] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [149] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [150] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [151] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [152] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [153] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [154] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [155] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [156] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [157] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [158] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [159] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [160] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [161] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [162] => Array
+        (
+            [line] => 24
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [163] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [164] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [165] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [166] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [167] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [168] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [169] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [170] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [171] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [172] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [173] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [174] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [175] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [176] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [177] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [178] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [179] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [180] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [181] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [182] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [183] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [184] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [185] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [186] => Array
+        (
+            [line] => 25
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [187] => Array
+        (
+            [line] => 26
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cachePath'
+        )
+
+    [188] => Array
+        (
+            [line] => 26
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cachePath'
+        )
+
+    [189] => Array
+        (
+            [line] => 27
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$filesUrl'
+        )
+
+    [190] => Array
+        (
+            [line] => 27
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$filesUrl'
+        )
+
+    [191] => Array
+        (
+            [line] => 28
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$cacheUrl'
+        )
+
+    [192] => Array
+        (
+            [line] => 28
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [193] => Array
+        (
+            [line] => 28
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$cacheUrl'
+        )
+
+    [194] => Array
+        (
+            [line] => 29
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$imagesExtentions'
+        )
+
+    [195] => Array
+        (
+            [line] => 29
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$imagesExtentions'
+        )
+
+    [196] => Array
+        (
+            [line] => 30
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$forbiddenExtentions'
+        )
+
+    [197] => Array
+        (
+            [line] => 30
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$forbiddenExtentions'
+        )
+
+    [198] => Array
+        (
+            [line] => 31
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '$resolutions'
+        )
+
+    [199] => Array
+        (
+            [line] => 31
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No short description for element '$resolutions'
+        )
+
+    [200] => Array
+        (
+            [line] => 35
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [201] => Array
+        (
+            [line] => 38
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [202] => Array
+        (
+            [line] => 38
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [203] => Array
+        (
+            [line] => 38
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [204] => Array
+        (
+            [line] => 38
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [205] => Array
+        (
+            [line] => 38
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [206] => Array
+        (
+            [line] => 38
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [207] => Array
+        (
+            [line] => 38
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [208] => Array
+        (
+            [line] => 38
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [209] => Array
+        (
+            [line] => 38
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [210] => Array
+        (
+            [line] => 38
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [211] => Array
+        (
+            [line] => 38
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [212] => Array
+        (
+            [line] => 38
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [213] => Array
+        (
+            [line] => 44
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [214] => Array
+        (
+            [line] => 45
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [215] => Array
+        (
+            [line] => 45
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [216] => Array
+        (
+            [line] => 45
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [217] => Array
+        (
+            [line] => 45
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [218] => Array
+        (
+            [line] => 45
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [219] => Array
+        (
+            [line] => 45
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [220] => Array
+        (
+            [line] => 45
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [221] => Array
+        (
+            [line] => 45
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [222] => Array
+        (
+            [line] => 45
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [223] => Array
+        (
+            [line] => 45
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [224] => Array
+        (
+            [line] => 45
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [225] => Array
+        (
+            [line] => 45
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [226] => Array
+        (
+            [line] => 50
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [227] => Array
+        (
+            [line] => 62
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getCachePath'
+        )
+
+    [228] => Array
+        (
+            [line] => 74
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getCachePath'
+        )
+
+    [229] => Array
+        (
+            [line] => 74
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getCachePath'
+        )
+
+    [230] => Array
+        (
+            [line] => 74
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getCachePath'
+        )
+
+    [231] => Array
+        (
+            [line] => 74
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getCachePath'
+        )
+
+    [232] => Array
+        (
+            [line] => 75
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'isResolution'
+        )
+
+    [233] => Array
+        (
+            [line] => 83
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [234] => Array
+        (
+            [line] => 83
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [235] => Array
+        (
+            [line] => 84
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [236] => Array
+        (
+            [line] => 84
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [237] => Array
+        (
+            [line] => 84
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [238] => Array
+        (
+            [line] => 84
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'traceDir'
+        )
+
+    [239] => Array
+        (
+            [line] => 85
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [240] => Array
+        (
+            [line] => 85
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [241] => Array
+        (
+            [line] => 85
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [242] => Array
+        (
+            [line] => 85
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [243] => Array
+        (
+            [line] => 86
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [244] => Array
+        (
+            [line] => 86
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [245] => Array
+        (
+            [line] => 86
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [246] => Array
+        (
+            [line] => 87
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'isResolution'
+        )
+
+    [247] => Array
+        (
+            [line] => 87
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'isResolution'
+        )
+
+    [248] => Array
+        (
+            [line] => 87
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'isResolution'
+        )
+
+    [249] => Array
+        (
+            [line] => 87
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'isResolution'
+        )
+
+    [250] => Array
+        (
+            [line] => 89
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteFile'
+        )
+
+    [251] => Array
+        (
+            [line] => 89
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [252] => Array
+        (
+            [line] => 89
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [253] => Array
+        (
+            [line] => 90
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [254] => Array
+        (
+            [line] => 90
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [255] => Array
+        (
+            [line] => 90
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [256] => Array
+        (
+            [line] => 91
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [257] => Array
+        (
+            [line] => 91
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [258] => Array
+        (
+            [line] => 91
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [259] => Array
+        (
+            [line] => 91
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [260] => Array
+        (
+            [line] => 92
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [261] => Array
+        (
+            [line] => 92
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [262] => Array
+        (
+            [line] => 92
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'init'
+        )
+
+    [263] => Array
+        (
+            [line] => 94
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [264] => Array
+        (
+            [line] => 96
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'traceDir'
+        )
+
+    [265] => Array
+        (
+            [line] => 96
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'traceDir'
+        )
+
+    [266] => Array
+        (
+            [line] => 96
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'traceDir'
+        )
+
+    [267] => Array
+        (
+            [line] => 96
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'traceDir'
+        )
+
+    [268] => Array
+        (
+            [line] => 100
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getResolution'
+        )
+
+    [269] => Array
+        (
+            [line] => 100
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getResolution'
+        )
+
+    [270] => Array
+        (
+            [line] => 100
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getResolution'
+        )
+
+    [271] => Array
+        (
+            [line] => 101
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteFile'
+        )
+
+    [272] => Array
+        (
+            [line] => 101
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteFile'
+        )
+
+    [273] => Array
+        (
+            [line] => 101
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteFile'
+        )
+
+    [274] => Array
+        (
+            [line] => 101
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteFile'
+        )
+
+    [275] => Array
+        (
+            [line] => 101
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getResolution'
+        )
+
+    [276] => Array
+        (
+            [line] => 101
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getResolution'
+        )
+
+    [277] => Array
+        (
+            [line] => 102
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getResolution'
+        )
+
+    [278] => Array
+        (
+            [line] => 106
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [279] => Array
+        (
+            [line] => 106
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [280] => Array
+        (
+            [line] => 106
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [281] => Array
+        (
+            [line] => 106
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [282] => Array
+        (
+            [line] => 109
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [283] => Array
+        (
+            [line] => 109
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'traceDir'
+        )
+
+    [284] => Array
+        (
+            [line] => 109
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'traceDir'
+        )
+
+    [285] => Array
+        (
+            [line] => 109
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'traceDir'
+        )
+
+    [286] => Array
+        (
+            [line] => 110
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'traceDir'
+        )
+
+    [287] => Array
+        (
+            [line] => 110
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'traceDir'
+        )
+
+    [288] => Array
+        (
+            [line] => 111
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'traceDir'
+        )
+
+    [289] => Array
+        (
+            [line] => 114
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteFile'
+        )
+
+    [290] => Array
+        (
+            [line] => 114
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteFile'
+        )
+
+    [291] => Array
+        (
+            [line] => 114
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteFile'
+        )
+
+    [292] => Array
+        (
+            [line] => 114
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [293] => Array
+        (
+            [line] => 115
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteFile'
+        )
+
+    [294] => Array
+        (
+            [line] => 115
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteFile'
+        )
+
+    [295] => Array
+        (
+            [line] => 116
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteFile'
+        )
+
+    [296] => Array
+        (
+            [line] => 119
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [297] => Array
+        (
+            [line] => 119
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [298] => Array
+        (
+            [line] => 119
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [299] => Array
+        (
+            [line] => 119
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [300] => Array
+        (
+            [line] => 120
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [301] => Array
+        (
+            [line] => 120
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [302] => Array
+        (
+            [line] => 121
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [303] => Array
+        (
+            [line] => 121
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [304] => Array
+        (
+            [line] => 121
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [305] => Array
+        (
+            [line] => 121
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [306] => Array
+        (
+            [line] => 121
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [307] => Array
+        (
+            [line] => 124
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [308] => Array
+        (
+            [line] => 126
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [309] => Array
+        (
+            [line] => 126
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [310] => Array
+        (
+            [line] => 126
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [311] => Array
+        (
+            [line] => 126
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [312] => Array
+        (
+            [line] => 129
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasCache'
+        )
+
+    [313] => Array
+        (
+            [line] => 131
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [314] => Array
+        (
+            [line] => 131
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [315] => Array
+        (
+            [line] => 131
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [316] => Array
+        (
+            [line] => 131
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [317] => Array
+        (
+            [line] => 134
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [318] => Array
+        (
+            [line] => 134
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [319] => Array
+        (
+            [line] => 134
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [320] => Array
+        (
+            [line] => 134
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [321] => Array
+        (
+            [line] => 135
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [322] => Array
+        (
+            [line] => 135
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [323] => Array
+        (
+            [line] => 136
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [324] => Array
+        (
+            [line] => 136
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [325] => Array
+        (
+            [line] => 136
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [326] => Array
+        (
+            [line] => 136
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [327] => Array
+        (
+            [line] => 136
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [328] => Array
+        (
+            [line] => 139
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [329] => Array
+        (
+            [line] => 139
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [330] => Array
+        (
+            [line] => 139
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [331] => Array
+        (
+            [line] => 140
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [332] => Array
+        (
+            [line] => 140
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [333] => Array
+        (
+            [line] => 141
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasCache'
+        )
+
+    [334] => Array
+        (
+            [line] => 141
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasCache'
+        )
+
+    [335] => Array
+        (
+            [line] => 141
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasCache'
+        )
+
+    [336] => Array
+        (
+            [line] => 141
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasCache'
+        )
+
+    [337] => Array
+        (
+            [line] => 141
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [338] => Array
+        (
+            [line] => 144
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [339] => Array
+        (
+            [line] => 144
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [340] => Array
+        (
+            [line] => 144
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [341] => Array
+        (
+            [line] => 145
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [342] => Array
+        (
+            [line] => 145
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [343] => Array
+        (
+            [line] => 146
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [344] => Array
+        (
+            [line] => 146
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [345] => Array
+        (
+            [line] => 146
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [346] => Array
+        (
+            [line] => 146
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [347] => Array
+        (
+            [line] => 146
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [348] => Array
+        (
+            [line] => 149
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteFile'
+        )
+
+    [349] => Array
+        (
+            [line] => 149
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [350] => Array
+        (
+            [line] => 149
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [351] => Array
+        (
+            [line] => 149
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [352] => Array
+        (
+            [line] => 150
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [353] => Array
+        (
+            [line] => 150
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [354] => Array
+        (
+            [line] => 151
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [355] => Array
+        (
+            [line] => 154
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [356] => Array
+        (
+            [line] => 154
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasCache'
+        )
+
+    [357] => Array
+        (
+            [line] => 154
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasCache'
+        )
+
+    [358] => Array
+        (
+            [line] => 154
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasCache'
+        )
+
+    [359] => Array
+        (
+            [line] => 155
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasCache'
+        )
+
+    [360] => Array
+        (
+            [line] => 155
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasCache'
+        )
+
+    [361] => Array
+        (
+            [line] => 156
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasCache'
+        )
+
+    [362] => Array
+        (
+            [line] => 159
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [363] => Array
+        (
+            [line] => 159
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [364] => Array
+        (
+            [line] => 159
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [365] => Array
+        (
+            [line] => 160
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [366] => Array
+        (
+            [line] => 160
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [367] => Array
+        (
+            [line] => 161
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [368] => Array
+        (
+            [line] => 163
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteDir'
+        )
+
+    [369] => Array
+        (
+            [line] => 169
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [370] => Array
+        (
+            [line] => 174
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [371] => Array
+        (
+            [line] => 178
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [372] => Array
+        (
+            [line] => 179
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [373] => Array
+        (
+            [line] => 183
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [374] => Array
+        (
+            [line] => 184
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [375] => Array
+        (
+            [line] => 184
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [376] => Array
+        (
+            [line] => 188
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [377] => Array
+        (
+            [line] => 189
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasCache'
+        )
+
+    [378] => Array
+        (
+            [line] => 193
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [379] => Array
+        (
+            [line] => 194
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [380] => Array
+        (
+            [line] => 198
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [381] => Array
+        (
+            [line] => 211
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [382] => Array
+        (
+            [line] => 216
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [383] => Array
+        (
+            [line] => 221
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [384] => Array
+        (
+            [line] => 223
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [385] => Array
+        (
+            [line] => 223
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [386] => Array
+        (
+            [line] => 224
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [387] => Array
+        (
+            [line] => 224
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [388] => Array
+        (
+            [line] => 224
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [389] => Array
+        (
+            [line] => 225
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [390] => Array
+        (
+            [line] => 225
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [391] => Array
+        (
+            [line] => 225
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [392] => Array
+        (
+            [line] => 225
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [393] => Array
+        (
+            [line] => 226
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [394] => Array
+        (
+            [line] => 226
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [395] => Array
+        (
+            [line] => 226
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'deleteRecurcive'
+        )
+
+    [396] => Array
+        (
+            [line] => 226
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [397] => Array
+        (
+            [line] => 231
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [398] => Array
+        (
+            [line] => 250
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [399] => Array
+        (
+            [line] => 250
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [400] => Array
+        (
+            [line] => 251
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [401] => Array
+        (
+            [line] => 251
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [402] => Array
+        (
+            [line] => 251
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [403] => Array
+        (
+            [line] => 252
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [404] => Array
+        (
+            [line] => 252
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [405] => Array
+        (
+            [line] => 252
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [406] => Array
+        (
+            [line] => 252
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [407] => Array
+        (
+            [line] => 253
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [408] => Array
+        (
+            [line] => 253
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [409] => Array
+        (
+            [line] => 253
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findNewFilename'
+        )
+
+    [410] => Array
+        (
+            [line] => 255
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [411] => Array
+        (
+            [line] => 255
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [412] => Array
+        (
+            [line] => 256
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [413] => Array
+        (
+            [line] => 256
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [414] => Array
+        (
+            [line] => 256
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [415] => Array
+        (
+            [line] => 257
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [416] => Array
+        (
+            [line] => 257
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [417] => Array
+        (
+            [line] => 257
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [418] => Array
+        (
+            [line] => 257
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [419] => Array
+        (
+            [line] => 258
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [420] => Array
+        (
+            [line] => 258
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [421] => Array
+        (
+            [line] => 258
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'hasFile'
+        )
+
+    [422] => Array
+        (
+            [line] => 260
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [423] => Array
+        (
+            [line] => 260
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [424] => Array
+        (
+            [line] => 261
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [425] => Array
+        (
+            [line] => 261
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [426] => Array
+        (
+            [line] => 261
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [427] => Array
+        (
+            [line] => 262
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [428] => Array
+        (
+            [line] => 262
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [429] => Array
+        (
+            [line] => 262
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [430] => Array
+        (
+            [line] => 262
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [431] => Array
+        (
+            [line] => 263
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [432] => Array
+        (
+            [line] => 263
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [433] => Array
+        (
+            [line] => 263
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'getFileInfo'
+        )
+
+    [434] => Array
+        (
+            [line] => 265
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [435] => Array
+        (
+            [line] => 265
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [436] => Array
+        (
+            [line] => 266
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [437] => Array
+        (
+            [line] => 266
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [438] => Array
+        (
+            [line] => 266
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [439] => Array
+        (
+            [line] => 267
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [440] => Array
+        (
+            [line] => 267
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [441] => Array
+        (
+            [line] => 267
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [442] => Array
+        (
+            [line] => 267
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [443] => Array
+        (
+            [line] => 268
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [444] => Array
+        (
+            [line] => 268
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [445] => Array
+        (
+            [line] => 268
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'findCacheFiles'
+        )
+
+    [446] => Array
+        (
+            [line] => 270
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [447] => Array
+        (
+            [line] => 270
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [448] => Array
+        (
+            [line] => 271
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [449] => Array
+        (
+            [line] => 271
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [450] => Array
+        (
+            [line] => 271
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [451] => Array
+        (
+            [line] => 272
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [452] => Array
+        (
+            [line] => 272
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [453] => Array
+        (
+            [line] => 272
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [454] => Array
+        (
+            [line] => 272
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [455] => Array
+        (
+            [line] => 273
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [456] => Array
+        (
+            [line] => 273
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [457] => Array
+        (
+            [line] => 273
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/HydraComponent.php
+            [message] => No docblock for element 'clearCache'
+        )
+
+    [458] => Array
+        (
+            [line] => 5
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/Module.php
+            [message] => No docblock for element 'zabachok\hydra\Module'
+        )
+
+    [459] => Array
+        (
+            [line] => 7
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/Module.php
+            [message] => No docblock for element '$controllerNamespace'
+        )
+
+    [460] => Array
+        (
+            [line] => 7
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/Module.php
+            [message] => No short description for element '$controllerNamespace'
+        )
+
+    [461] => Array
+        (
+            [line] => 8
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/Module.php
+            [message] => No docblock for element '$defaultController'
+        )
+
+    [462] => Array
+        (
+            [line] => 8
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/Module.php
+            [message] => No short description for element '$defaultController'
+        )
+
+    [463] => Array
+        (
+            [line] => 11
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/Module.php
+            [message] => No docblock for element 'init'
+        )
+
+    [464] => Array
+        (
+            [line] => 7
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/controllers/BoxController.php
+            [message] => No docblock for element 'zabachok\hydra\controllers\BoxController'
+        )
+
+    [465] => Array
+        (
+            [line] => 9
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/controllers/BoxController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [466] => Array
+        (
+            [line] => 18
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/Indexer.php
+            [message] => No docblock for element '$index'
+        )
+
+    [467] => Array
+        (
+            [line] => 18
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/Indexer.php
+            [message] => No short description for element '$index'
+        )
+
+    [468] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/Indexer.php
+            [message] => No docblock for element '$files'
+        )
+
+    [469] => Array
+        (
+            [line] => 19
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/Indexer.php
+            [message] => No short description for element '$files'
+        )
+
+    [470] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/Indexer.php
+            [message] => No docblock for element 'indexFiles'
+        )
+
+    [471] => Array
+        (
+            [line] => 57
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/Indexer.php
+            [message] => No docblock for element 'generateFileInfo'
+        )
+
+    [472] => Array
+        (
+            [line] => 73
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/Indexer.php
+            [message] => No docblock for element 'exportJs'
+        )
+
+    [473] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/analyzer/HtmlAnalyzer.php
+            [message] => No docblock for element '$headWeight'
+        )
+
+    [474] => Array
+        (
+            [line] => 20
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/analyzer/HtmlAnalyzer.php
+            [message] => No short description for element '$headWeight'
+        )
+
+    [475] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/analyzer/HtmlAnalyzer.php
+            [message] => No docblock for element '$titleWeight'
+        )
+
+    [476] => Array
+        (
+            [line] => 21
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/analyzer/HtmlAnalyzer.php
+            [message] => No short description for element '$titleWeight'
+        )
+
+    [477] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/analyzer/HtmlAnalyzer.php
+            [message] => No docblock for element '$textWeight'
+        )
+
+    [478] => Array
+        (
+            [line] => 22
+            [file] => /web/zabachok.loc/www/extensions/yii2-hydra/doc/assets/5209b52/lib/analyzer/HtmlAnalyzer.php
+            [message] => No short description for element '$textWeight'
+        )
+
+)
