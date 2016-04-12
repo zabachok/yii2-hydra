@@ -203,6 +203,11 @@ class HydraComponent extends \yii\base\Component
         return $this->cacheUrl . $path . ($path == '/' ? '' : '/') . $name . '-' . $resolution . '.' . $extension;
     }
 
+    public function getFilesUrl($filePath)
+    {
+        return $this->filesUrl . $filePath;
+    }
+
     /**
      * Checks `$resolution` to exists and returned pattern.
      *
@@ -269,7 +274,7 @@ class HydraComponent extends \yii\base\Component
                 continue;
             }
             $clod = $clod . '/' . $name;
-            if (!is_dir($clod))
+            if (!is_dir($basePath . $clod))
             {
                 mkdir($basePath . $clod);
             }
@@ -474,7 +479,7 @@ class HydraComponent extends \yii\base\Component
             'filepath' => $dirPath,
             'name'     => $pathInfo['basename'],
             'url'      => ($in == 'files' ? $this->filesUrl : $this->cacheUrl) . $dirPath,
-            'isdir'   => true,
+            'isdir'    => true,
         ];
         if ($public === false)
         {
@@ -629,8 +634,7 @@ class HydraComponent extends \yii\base\Component
     public function generateCacheimage($fileInfo)//$sourceFile, $width, $height, $cropType)
     {
         $fileInfo = $this->parseCachePath($fileInfo);
-//        print_r($fileInfo);
-//        die();
+
         if (!file_exists($fileInfo['sourceFilePath']))
         {
             throw new \yii\base\InvalidParamException($fileInfo['sourceUrl'] . ' is not exists');
@@ -653,7 +657,7 @@ class HydraComponent extends \yii\base\Component
             }
         }
         $image = $image->thumbnail(new Box($fileInfo['width'], $fileInfo['height']), $mode);
-        $this->traceDir($fileInfo['cacheDirPath']);
+        $this->traceDir($fileInfo['sourceDir'], 'cache');
         $image->save($fileInfo['cacheFilePath']);
 
         return $image;
@@ -673,6 +677,7 @@ class HydraComponent extends \yii\base\Component
             'cacheFilePath'  => $this->cachePath . '/' . $data[1] . '-' . $data[2] . 'x' . $data[3] . $data[4] . '.' . $data[5],
             'sourceFilePath' => $this->filesPath . '/' . $data[1] . '.' . $data[5],
             'sourceUrl'      => $this->filesUrl . '/' . $data[1] . '.' . $data[5],
+            'sourceDir'       => ($dirname == '.' ? '' : '/'.$dirname),
             'width'          => $data[2],
             'height'         => $data[3],
             'cropType'       => $data[4],
