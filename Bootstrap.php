@@ -15,10 +15,12 @@ class Bootstrap implements BootstrapInterface
     public function bootstrap($app)
     {
         // Add module URL rules.
+        $parts = parse_url(\Yii::$app->hydra->cacheUrl);
+
         $app->urlManager->addRules(
             [
                 'hydra'               => 'hydra/facade/index',
-                '<file:data/cache.*>' => 'hydra/common/make',
+                '<file:' . $parts['path'] . '.*>' => 'hydra/common/make',
             ],
             false
         );
