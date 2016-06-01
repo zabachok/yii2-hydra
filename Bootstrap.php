@@ -24,15 +24,15 @@ class Bootstrap implements BootstrapInterface
             ],
             false
         );
-//        $locator = new ServiceLocator;
-//        $app->set('hydra', 'zabachok\hydra\HydraComponent');
-//        // Add module I18N category.
-//        if (!isset($app->i18n->translations['users']) && !isset($app->i18n->translations['users*'])) {
-//            $app->i18n->translations['users'] = [
-//                'class' => 'yii\i18n\PhpMessageSource',
-//                'basePath' => '@vova07/users/messages',
-//                'forceTranslation' => true
-//            ];
-//        }
+
+        if (!isset($app->i18n->translations['hydra']) && !isset($app->i18n->translations['hydra*']))
+        {
+            $app->i18n->translations['hydra'] = [
+                'class'            => 'yii\i18n\PhpMessageSource',
+                'basePath'         => '@zabachok/hydra/messages',
+                'forceTranslation' => true,
+            ];
+
+        }
     }
 }
