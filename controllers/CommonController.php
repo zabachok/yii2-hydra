@@ -10,11 +10,11 @@ class CommonController extends Controller
     public function actionMake($file)
     {
         $file = '/' . $file;
-//        die($file);
         $extension = Yii::$app->hydra->getExtension($file);
-        Yii::$app->response->headers->add('Content-Type', Yii::$app->hydra->imagesContentType[$extension]);
-        Yii::$app->response->format = Response::FORMAT_RAW;
 
-        return Yii::$app->hydra->generateCacheimage($file);
+        $image = Yii::$app->hydra->generateCacheimage($file);
+        Yii::$app->response->format = Response::FORMAT_RAW;
+        Yii::$app->response->headers->add('Content-Type', Yii::$app->hydra->imagesContentType[$extension]);
+        return $image;
     }
 }

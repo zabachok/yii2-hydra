@@ -269,7 +269,7 @@ class HydraComponent extends \yii\base\Component
 //        die($dirPath);
         foreach ($names as $name)
         {
-            if (empty($name))
+            if ($name == '')
             {
                 continue;
             }
@@ -665,7 +665,8 @@ class HydraComponent extends \yii\base\Component
 
     public function parseCachePath($filePath)
     {
-        $preg = preg_match('#' . $this->cacheUrl . '/(.*)-([0-9]+)x([0-9]+)([ip])\.(' . implode('|',
+        $cacheUrl = parse_url($this->cacheUrl);
+        $preg = preg_match('#' . $cacheUrl['path'] . '/(.*)-([0-9]+)x([0-9]+)([ip])\.(' . implode('|',
                 $this->imagesExtensions) . ')$#uUis', $filePath, $data);
         if (!$preg)
         {

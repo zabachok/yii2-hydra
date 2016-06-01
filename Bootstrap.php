@@ -20,7 +20,7 @@ class Bootstrap implements BootstrapInterface
         $app->urlManager->addRules(
             [
                 'hydra'               => 'hydra/facade/index',
-                '<file:' . $parts['path'] . '.*>' => 'hydra/common/make',
+                '<file:' . trim($parts['path'], '/') . '.*>' => 'hydra/common/make',
             ],
             false
         );

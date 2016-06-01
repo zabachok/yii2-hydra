@@ -31,7 +31,9 @@ class MultipleUpload extends Widget
     {
         \zabachok\hydra\assets\MultipleUpload::register($this->view);
         $this->view->registerJs('$("#' . $this->id . '").uploadFile(' . json_encode($this->makeConfig()) . ')');
-        return Html::tag($this->area['tag'], $this->hint, ArrayHelper::merge($this->area['options'], ['id'=>$this->id]));
+
+        return Html::tag($this->area['tag'], $this->hint,
+            ArrayHelper::merge($this->area['options'], ['id' => $this->id]));
     }
 
     public function makeConfig()
